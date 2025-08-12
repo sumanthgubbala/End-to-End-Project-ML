@@ -2,3 +2,5 @@ venv/
 artifacts
 logs
 MLProject.egg-info/
+.vscode
+catboost_info
